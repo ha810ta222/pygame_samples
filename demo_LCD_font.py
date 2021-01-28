@@ -2,7 +2,7 @@
 
 import pygame
 import pygame.freetype
-import time
+# import time
 from lcd_font_pg import LCD_font
 
 DARK_GRAY = (40, 40, 40)
@@ -30,12 +30,12 @@ lcd1.init_row(X_ORG=8, Y_ORG=8, COL_INTV=6)
 
 
 def LCD_display(x, y):
-    code = int((x / 8) % 3)
+    code = int((x / 8) % 10)
     text1, rect1 = font1.render(str(code), WHITE)
     rect1.center = (x, y)
     screen.blit(text1, rect1)
     # LCD sim
-    lcd1.update_col(col=0, code=code)
+    lcd1.update_col(col=0, code=code + ord('0'))
 
 
 def infinite_loop():
@@ -78,10 +78,11 @@ def infinite_loop():
             y = 0
 
         screen.fill(GRAY)
-        LCD_display(x,y)            
-        
+        LCD_display(x, y)
+
         pygame.display.update()
         clock.tick(60)
+
 
 infinite_loop()
 pygame.quit()

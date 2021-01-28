@@ -88,10 +88,11 @@ def infinite_loop():
             y = 0
 
         screen.fill(WHITE)
-        emoji_display(x,y)            
-        
+        emoji_display(x, y)
+
         pygame.display.update()
         clock.tick(60)
+
 
 infinite_loop()
 pygame.quit()
