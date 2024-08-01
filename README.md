@@ -13,12 +13,6 @@
 
 TEST
 
-https://github.com/user-attachments/assets/c2447c25-b9ec-4863-9053-ca0b34a547d9
-
-https://github.com/user-attachments/assets/f4cd2620-1815-4278-833a-6130354f3ff7
-
-2画面撮影
-
 https://github.com/user-attachments/assets/841972fe-93ab-4686-a072-d7ba8e3c2f26
 
 https://github.com/user-attachments/assets/e95dae8c-5d9f-4d68-aa81-9b3afb284c4c
