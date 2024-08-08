@@ -29,6 +29,7 @@ demo car crash
 
 demo　freetypeの実行画面
 
-https://github.com/user-attachments/assets/4e927469-98ba-404f-b116-aa1772ba9d68
+https://github.com/user-attachments/assets/7bf35a83-25db-438d-a3a7-845d06fc1388
+
 
 demo openemojiの実行画面
