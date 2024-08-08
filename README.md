@@ -19,18 +19,15 @@ https://github.com/user-attachments/assets/841972fe-93ab-4686-a072-d7ba8e3c2f26
 
 https://github.com/user-attachments/assets/e95dae8c-5d9f-4d68-aa81-9b3afb284c4c
 
-![スクリーンショット 2024-08-01 195030](https://github.com/user-attachments/assets/99839488-0d5e-4bcf-a61e-2429912ca59a)
-
 https://github.com/user-attachments/assets/c45e3d24-b180-4517-8c5f-37df047d6fb4
 
-https://github.com/user-attachments/assets/475746ce-e1d0-4e4c-869d-4b5f9c96becc
+demo car clash
+
+![image](https://github.com/user-attachments/assets/d0152820-0ede-40ec-94e6-d773005cbb3f)
 
 https://github.com/user-attachments/assets/dc19f166-82a1-44aa-864c-ab9e3fdef3ba
 
 demo　freetypeの実行画面
-
-
-![スクリーンショット 2024-08-08 191950](https://github.com/user-attachments/assets/09b34733-3ea9-404f-8509-e505bf87fb19)
 
 https://github.com/user-attachments/assets/4e927469-98ba-404f-b116-aa1772ba9d68
 
