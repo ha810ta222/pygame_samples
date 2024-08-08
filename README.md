@@ -25,3 +25,7 @@ https://github.com/user-attachments/assets/475746ce-e1d0-4e4c-869d-4b5f9c96becc
 
 https://github.com/user-attachments/assets/dc19f166-82a1-44aa-864c-ab9e3fdef3ba
 
+
+https://github.com/user-attachments/assets/4e927469-98ba-404f-b116-aa1772ba9d68
+
+demo openemojiの実行画面
