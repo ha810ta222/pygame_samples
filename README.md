@@ -29,6 +29,9 @@ https://github.com/user-attachments/assets/dc19f166-82a1-44aa-864c-ab9e3fdef3ba
 
 demo　freetypeの実行画面
 
+
+![スクリーンショット 2024-08-08 191950](https://github.com/user-attachments/assets/09b34733-3ea9-404f-8509-e505bf87fb19)
+
 https://github.com/user-attachments/assets/4e927469-98ba-404f-b116-aa1772ba9d68
 
 demo openemojiの実行画面
