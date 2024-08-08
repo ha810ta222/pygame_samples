@@ -31,5 +31,8 @@ demo　freetypeの実行画面
 
 https://github.com/user-attachments/assets/7bf35a83-25db-438d-a3a7-845d06fc1388
 
-
 demo openemojiの実行画面
+
+https://github.com/user-attachments/assets/aaf9b3da-2403-470c-a2bc-71fb77665cd4
+
+demo lcd fontの実行画面
