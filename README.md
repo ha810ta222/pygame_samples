@@ -12,6 +12,3 @@
  - lcd_font_pg.py: LCD_fontクラス
 
 TEST
-
-https://github.com/ha810ta222/pygame_samples
-
