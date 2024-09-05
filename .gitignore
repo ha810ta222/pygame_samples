@@ -1,9 +1,4 @@
 
-*.py
-*.md
 *.txt
 *.py[cod]
-__pycache__/
-
-fonts/
 .venv
