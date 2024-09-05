@@ -12,3 +12,29 @@
  - lcd_font_pg.py: LCD_fontクラス
 
 TEST
+
+## 実行結果
+
+https://github.com/user-attachments/assets/841972fe-93ab-4686-a072-d7ba8e3c2f26
+
+https://github.com/user-attachments/assets/e95dae8c-5d9f-4d68-aa81-9b3afb284c4c
+
+## demo car crash
+
+https://github.com/user-attachments/assets/1a993c38-d4a7-4db3-9022-7698cc36ae5c
+
+demo car crash
+
+![image](https://github.com/user-attachments/assets/d0152820-0ede-40ec-94e6-d773005cbb3f)
+
+![スクリーンショット 2024-08-08 194747](https://github.com/user-attachments/assets/9c88fe83-c715-4312-8d85-825a648a2d21)
+
+demo　freetypeの実行画面
+
+https://github.com/user-attachments/assets/7bf35a83-25db-438d-a3a7-845d06fc1388
+
+demo openemojiの実行画面
+
+https://github.com/user-attachments/assets/aaf9b3da-2403-470c-a2bc-71fb77665cd4
+
+demo lcd fontの実行画面
