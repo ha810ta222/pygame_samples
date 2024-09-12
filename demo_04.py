@@ -211,18 +211,20 @@ while running:
         x0 = 5
         y0 = 85
         #mc.setBlock(5, 70, 5,  param.GOLD_BLOCK)
-        year=(dt_now.year//1000,((dt_now.year//100)%10),((dt_now.year//10)%10),dt_now.year%10)
-        for l in range(4):
+        year=(dt_now.year//1000,((dt_now.year//100)%10),((dt_now.year//10)%10),dt_now.year%10,24,
+              dt_now.month//10,dt_now.month%10,24,dt_now.day//10,dt_now.day%10,dt_now.hour//10,
+              dt_now.hour%10,23,dt_now.minute//10,dt_now.minute%10,23,dt_now.second//10,dt_now.second%10)
+        for l in range(18):
             i=0
             for y in range(7):
                 for x in range(5):
                     if LCD_font_styles[int(ord('0')+year[l])][i] == 1:
                         color = param.GOLD_BLOCK
                     else:
-                        color = 0
+                        color = 48
                     # 桁の原点
-                    x1 = x0 + 6*l
-                    y1 = y0
+                    x1 = x0 + 6*(l%10)
+                    y1 = y0 + 8*(l//10) 
                     # ドットの原点座標
                     org1 = (x1 + x, y1 - y)
                     # ドットを描く
