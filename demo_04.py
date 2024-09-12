@@ -208,11 +208,27 @@ while running:
 
         dt_now = datetime.datetime.now()
         
+        x0 = 5
+        y0 = 85
         #mc.setBlock(5, 70, 5,  param.GOLD_BLOCK)
-        for i in range (7):
-            for j in range (5):                #if :
-                if LCD_0 == 1 :
-                    mc.setBlock(5+j,71+i,5, param.GOLD_BLOCK)
+        year=(dt_now.year//1000,((dt_now.year//100)%10),((dt_now.year//10)%10),dt_now.year%10)
+        for l in range(4):
+            i=0
+            for y in range(7):
+                for x in range(5):
+                    if LCD_font_styles[int(ord('0')+year[l])][i] == 1:
+                        color = param.GOLD_BLOCK
+                    else:
+                        color = 0
+                    # 桁の原点
+                    x1 = x0 + 6*l
+                    y1 = y0
+                    # ドットの原点座標
+                    org1 = (x1 + x, y1 - y)
+                    # ドットを描く
+                    #pygame.draw.rect(self.screen, color, Rect(org1[0], org1[1], block_size, block_size))
+                    mc.setBlock(org1[0],org1[1],5, color)
+                    i += 1
 
         
         lcd1.update_col(col=0, code=ord('0')+dt_now.year//1000)
