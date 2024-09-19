@@ -41,7 +41,13 @@ demo lcd fontの実行画面
 
 https://github.com/user-attachments/assets/78c1a5d5-4526-46b1-bb87-b4e1257b2fcf
 
-ステップ6
+https://github.com/user-attachments/assets/17bf582a-d2ab-4694-a7bb-72f202b1ca0b
+
+ステップ4
+
+https://github.com/user-attachments/assets/231a9aeb-0459-4bca-8e17-9542a933252e
+
+ステップ5/ステップ6
 
 ![2024-09-19_19 39 29](https://github.com/user-attachments/assets/4f04bea1-b846-4317-89f7-7b36de86484a)
 
