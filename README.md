@@ -38,6 +38,15 @@ demo openemojiの実行画面
 https://github.com/user-attachments/assets/aaf9b3da-2403-470c-a2bc-71fb77665cd4
 
 demo lcd fontの実行画面
+
+https://github.com/user-attachments/assets/78c1a5d5-4526-46b1-bb87-b4e1257b2fcf
+
+ステップ6
+
+![2024-09-19_19 39 29](https://github.com/user-attachments/assets/4f04bea1-b846-4317-89f7-7b36de86484a)
+
+ステップ7
+
 ![スクリーンショット (54)](https://github.com/user-attachments/assets/88ba1931-5ca8-4d7a-907d-15e43724a6d3)
 
-demo 04の実行画面
+demo 04の実行画面（ステップ8）
